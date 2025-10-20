@@ -42,8 +42,8 @@ export default function App() {
       modelName: "София Чен",
       productName: "Кружевной бралетт",
       notes: "Сохранены детали кружева • Точная передача цвета",
-      beforeImage: "https://images.unsplash.com/photo-1623609163915-d21853ad7d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxibGFjayUyMG1hbm5lcXVpbiUyMGxpbmdlcmllfGVufDF8fHx8MTc2MDk1NDQxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      afterImage: "https://images.unsplash.com/photo-1683849119970-512d8d772e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2RlbCUyMHdlYXJpbmclMjBsaW5nZXJpZXxlbnwxfHx8fDE3NjA5NTQ0MTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      beforeImage: "/src/assets/2.png",
+      afterImage: "/src/assets/photo_2025-10-20 12.58.58.jpeg"
     },
     {
       id: 2,
